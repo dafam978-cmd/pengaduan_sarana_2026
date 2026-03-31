@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Histori Aspirasi | Eco-Siswa</title>
+    <title> Riwayat Aspirasi | Eco-Siswa</title>
     <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
     <style>
         :root {
@@ -163,14 +163,14 @@
         <h2>SISWA SAKUCI</h2>
         <nav style="display: flex; flex-direction: column; flex-grow: 1;">
             <a href="index.php?page=aspirasi" class="nav-item">📝 Buat Laporan</a>
-            <a href="index.php?page=histori" class="nav-item active">📜 Histori Saya</a>
+            <a href="index.php?page=histori" class="nav-item active">📜Riwayat Saya</a>
         </nav>
         <a href="index.php?page=logout" class="logout-btn">Log Out</a>
     </aside> 
 
     <main class="main-content">
         <header class="header">
-            <h1>Histori Laporan Kamu 📜</h1>
+            <h1>Riwayat Laporan Kamu 📜</h1>
             <p>Pantau perkembangan laporan yang telah kamu kirimkan.</p>
         </header>
 

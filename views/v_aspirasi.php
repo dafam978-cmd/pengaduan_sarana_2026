@@ -193,7 +193,7 @@
         <h2>SISWA SAKUCI</h2>
         <nav style="display: flex; flex-direction: column; flex-grow: 1;">
             <a href="index.php?page=aspirasi" class="nav-item active">📝 Buat Laporan</a>
-            <a href="index.php?page=histori" class="nav-item">📜 Histori Saya</a>
+            <a href="index.php?page=histori" class="nav-item">📜 Riwayat Saya</a>
         </nav>
         <a href="index.php?page=logout" class="logout-btn">Log Out</a>
     </aside>
